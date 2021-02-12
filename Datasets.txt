@@ -1,0 +1,3 @@
+Please download data set from below link :
+https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset/activity
+
