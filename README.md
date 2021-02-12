@@ -1,2 +1,2 @@
-# Cotton-Disease-Prediction-Deep-Learning-master
+Classifying the cotton leaves having a disease or not.
  
